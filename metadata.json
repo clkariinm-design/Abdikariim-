@@ -1,0 +1,11 @@
+{
+  "name": "Water Intake Tracker & Reminders",
+  "description": "Track daily water intake, schedule hydration reminders, and log drinks effortlessly with voice transcription.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
